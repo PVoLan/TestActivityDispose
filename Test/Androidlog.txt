@@ -1,0 +1,271 @@
+D/AndroidRuntime(16772): >>>>>>>>>>>>>> AndroidRuntime START <<<<<<<<<<<<<<
+D/AndroidRuntime(16772): CheckJNI is ON
+D/AndroidRuntime(16772): --- registering native functions ---
+I/ActivityManager(   59): Starting activity: Intent { act=android.intent.action.MAIN flg=0x10000000 cmp=test.test/test.Activity1 }
+D/AndroidRuntime(16772): Shutting down VM
+D/jdwp    (16772): adbd disconnected
+I/AndroidRuntime(16772): NOTE: attach of thread 'Binder Thread #3' failed
+I/ActivityManager(   59): Start proc test.test for activity test.test/test.Activity1: pid=16778 uid=10049 gids={3003, 1015}
+I/ActivityThread(16778): Publishing provider test.test.__mono_init__: mono.MonoRuntimeProvider
+D/dalvikvm(16778): Trying to load lib /data/data/test.test/lib/libmonodroid.so 0x44ede7c8
+D/dalvikvm(16778): Added shared lib /data/data/test.test/lib/libmonodroid.so 0x44ede7c8
+I/monodroid-gc(16778): environment supports jni NewWeakGlobalRef
+D/dalvikvm(16778): GC_FOR_MALLOC freed 12836 objects / 479792 bytes in 69ms
+D/dalvikvm(16778): GC_FOR_MALLOC freed 10391 objects / 484792 bytes in 50ms
+I/ActivityManager(   59): Displayed activity test.test/test.Activity1: 9535 ms (total 417355 ms)
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GC_FOR_MALLOC freed 7761 objects / 386952 bytes in 81ms
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 680 ms (total 680 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 201
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 491 ms (total 491 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 370 ms (total 370 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 383 ms (total 383 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 301
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 490 ms (total 490 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 463 ms (total 463 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 371 ms (total 371 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 401
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 447 ms (total 447 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 459 ms (total 459 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GC_FOR_MALLOC freed 3353 objects / 194648 bytes in 118ms
+I/----------(16778): Destroy
+D/dalvikvm(16778): GREF has increased to 501
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 350 ms (total 1396 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 513 ms (total 513 ms)
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+W/WindowManager(   59): Pointer down received while already down in: Window{45096f60 test.test/test.Activity1 paused=false}
+W/WindowManager(   59): No window to dispatch pointer action 0
+I/----------(16778): Destroy
+W/WindowManager(   59): No window to dispatch pointer action 1
+D/dalvikvm(16778): GREF has increased to 601
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/----------(16778): Destroy
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+W/WindowManager(   59): No window to dispatch pointer action 0
+W/WindowManager(   59): No window to dispatch pointer action 1
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 566 ms (total 2225 ms)
+W/WindowManager(   59): No window to dispatch pointer action 0
+W/WindowManager(   59): No window to dispatch pointer action 1
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 701
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 473 ms (total 473 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 572 ms (total 572 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 460 ms (total 460 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GC_FOR_MALLOC freed 3710 objects / 202952 bytes in 87ms
+D/dalvikvm(16778): GREF has increased to 801
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 491 ms (total 491 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 445 ms (total 445 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 468 ms (total 468 ms)
+I/----------(16778): Destroy
+D/dalvikvm(  109): GC_FOR_MALLOC freed 6793 objects / 567216 bytes in 279ms
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 901
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 362 ms (total 362 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 467 ms (total 467 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(   59): GC_FOR_MALLOC freed 14124 objects / 742064 bytes in 114ms
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 783 ms (total 783 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 1001
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 470 ms (total 470 ms)
+D/SntpClient(   59): request time failed: java.net.SocketException: Address family not supported by protocol
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 386 ms (total 386 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GC_FOR_MALLOC freed 3536 objects / 199288 bytes in 101ms
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 584 ms (total 584 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 1101
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 470 ms (total 470 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 457 ms (total 457 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 465 ms (total 465 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 1201
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 519 ms (total 519 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 527 ms (total 527 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 396 ms (total 396 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 1301
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 493 ms (total 493 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GC_FOR_MALLOC freed 3529 objects / 198576 bytes in 70ms
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 605 ms (total 605 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 486 ms (total 486 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 1401
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 548 ms (total 548 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 492 ms (total 492 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 473 ms (total 473 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 1501
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 465 ms (total 465 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 522 ms (total 522 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 460 ms (total 460 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 1601
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 474 ms (total 474 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GC_FOR_MALLOC freed 3888 objects / 219792 bytes in 86ms
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 452 ms (total 452 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 1701
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 494 ms (total 494 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 448 ms (total 448 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 1801
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 483 ms (total 1632 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 472 ms (total 472 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 425 ms (total 425 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 1901
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 373 ms (total 373 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 359 ms (total 359 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+I/ActivityManager(   59): Displayed activity test.test/test.Activity2: 457 ms (total 457 ms)
+I/----------(16778): Destroy
+I/ActivityManager(   59): Starting activity: Intent { cmp=test.test/test.Activity2 }
+D/dalvikvm(16778): GREF has increased to 2001
+W/dalvikvm(16778): Last 10 entries in JNI global reference table:
+W/dalvikvm(16778):  1991: 0x45165b60 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(16778):  1992: 0x45165f88 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(16778):  1993: 0x451663b0 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(16778):  1994: 0x451667d8 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(16778):  1995: 0x45166c00 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(16778):  1996: 0x45167028 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(16778):  1997: 0x45167450 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(16778):  1998: 0x45167878 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(16778):  1999: 0x45167d18 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(16778):  2000: 0x45168140 cls=Landroid/widget/TextView; (548 bytes)
+W/dalvikvm(16778): JNI global reference table summary (2001 entries):
+W/dalvikvm(16778):   121 of Ljava/lang/Class; 164B (69 unique)
+W/dalvikvm(16778):     1 of Ljava/lang/Class; 172B
+W/dalvikvm(16778):     2 of Ldalvik/system/VMRuntime; 12B (1 unique)
+W/dalvikvm(16778):     1 of Ljava/lang/String; 28B
+W/dalvikvm(16778):    64 of Ljava/lang/ref/WeakReference; 28B (64 unique)
+W/dalvikvm(16778):     1 of Ljava/lang/ref/WeakReference; 36B
+W/dalvikvm(16778):     1 of Landroid/app/ActivityThread$ApplicationThread; 28B
+W/dalvikvm(16778):     1 of Ldalvik/system/PathClassLoader; 52B
+W/dalvikvm(16778):  1543 of Landroid/widget/TextView; 548B (1543 unique)
+W/dalvikvm(16778):     8 of Landroid/widget/TextView; 556B (8 unique)
+W/dalvikvm(16778):     1 of Landroid/content/ContentProvider$Transport; 28B
+W/dalvikvm(16778):    54 of Landroid/content/Intent; 44B (54 unique)
+W/dalvikvm(16778):     1 of Ljavax/net/ssl/TrustManagerFactory; 20B
+W/dalvikvm(16778):     2 of Lorg/apache/harmony/xnet/provider/jsse/TrustManagerImpl; 28B (1 unique)
+W/dalvikvm(16778):    55 of Landroid/widget/Button; 548B (55 unique)
+W/dalvikvm(16778):    31 of Landroid/view/ViewRoot$W; 28B (31 unique)
+W/dalvikvm(16778):     1 of Landroid/app/ActivityThread$ProviderRecord; 28B
+W/dalvikvm(16778):    55 of Lmono/android/view/View/OnClickListenerImplementor; 12B (55 unique)
+W/dalvikvm(16778):     1 of Landroid/view/accessibility/AccessibilityManager$1; 28B
+W/dalvikvm(16778):     1 of Ltest/Activity1; 180B
+W/dalvikvm(16778):     1 of Landroid/view/inputmethod/InputMethodManager$1; 28B
+W/dalvikvm(16778):     1 of Landroid/view/inputmethod/InputMethodManager$ControlledInputConnectionWrapper; 36B
+W/dalvikvm(16778):    54 of Ltest/Activity2; 180B (54 unique)
+W/dalvikvm(16778): Memory held directly by tracked refs is 907588 bytes
+E/dalvikvm(16778): Excessive JNI global references (2001)
+E/dalvikvm(16778): VM aborting
+I/mono    (16778): Stacktrace:
+I/mono    (16778): 
+I/mono    (16778):   at Android.Runtime.JNIEnv.NewGlobalRef (intptr) <0x00043>
+I/mono    (16778):   at Java.Lang.Object.RegisterInstance (Android.Runtime.IJavaObject,intptr,Android.Runtime.JniHandleOwnership) <0x000ab>
+I/mono    (16778):   at Java.Lang.Object.SetHandle (intptr,Android.Runtime.JniHandleOwnership) <0x00023>
+I/mono    (16778):   at Java.Lang.Object..ctor (intptr,Android.Runtime.JniHandleOwnership) <0x0003f>
+I/mono    (16778):   at Android.Views.View..ctor (intptr,Android.Runtime.JniHandleOwnership) <0x00023>
+I/mono    (16778):   at Android.Widget.TextView..ctor (intptr,Android.Runtime.JniHandleOwnership) <0x00023>
+I/mono    (16778):   at (wrapper runtime-invoke) <Module>.runtime_invoke_void__this___intptr_int (object,intptr,intptr,intptr) <0xffffffff>
+I/mono    (16778):   at System.Reflection.MonoCMethod.Invoke (object,System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo) <0x001e7>
+I/mono    (16778):   at System.Reflection.MonoCMethod.Invoke (System.Reflection.BindingFlags,System.Reflection.Binder,object[],System.Globalization.CultureInfo) <0x00053>
+I/mono    (16778):   at System.Reflection.ConstructorInfo.Invoke (object[]) <0x0005b>
+I/mono    (16778):   at Android.Runtime.TypeManager.CreateProxy (System.Type,intptr,Android.Runtime.JniHandleOwnership) <0x00153>
+I/mono    (16778):   at Android.Runtime.TypeManager.CreateInstance (intptr,Android.Runtime.JniHandleOwnership,System.Type) <0x0038b>
+I/mono    (16778):   at Java.Lang.Object.GetObject (intptr,Android.Runtime.JniHandleOwnership,System.Type) <0x00267>
+I/mono    (16778):   at Java.Lang.Object._GetObject<T> (intptr,Android.Runtime.JniHandleOwnership) <0x0004f>
+I/mono    (16778):   at Java.Lang.Object.GetObject<T> (intptr,Android.Runtime.JniHandleOwnership) <0x0002b>
+I/mono    (16778):   at Android.App.Activity.FindViewById (int) <0x00233>
+I/mono    (16778):   at Android.App.Activity.FindViewById<T> (int) <0x0002b>
+I/mono    (16778):   at Test.Activity2.OnCreate (Android.OS.Bundle) <0x003fb>
+I/mono    (16778):   at Android.App.Activity.n_OnCreate_Landroid_os_Bundle_ (intptr,intptr,intptr) <0x0005f>
+I/mono    (16778):   at (wrapper dynamic-method) object.40d081a9-f13b-425f-83be-48e413e4381a (intptr,intptr,intptr) <0x00033>
+I/mono    (16778):   at (wrapper native-to-managed) object.40d081a9-f13b-425f-83be-48e413e4381a (intptr,intptr,intptr) <0xffffffff>
+W/ActivityManager(   59): Launch timeout has expired, giving up wake lock!
+W/ActivityManager(   59): Activity idle timeout for HistoryRecord{4515f7d0 test.test/test.Activity2}
+D/dalvikvm( 2943): GC_EXPLICIT freed 32 objects / 1368 bytes in 114ms
+D/dalvikvm(  116): GC_EXPLICIT freed 974 objects / 52096 bytes in 128ms

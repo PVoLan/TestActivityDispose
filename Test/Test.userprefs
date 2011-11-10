@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Activity1.cs">
+    <Files>
+      <File FileName="Activity2.cs" Line="42" Column="18" />
+      <File FileName="Resources\layout\Act2.axml" Line="210" Column="25" />
+      <File FileName="Resources\layout\Main.axml" Line="8" Column="31" />
+      <File FileName="Activity1.cs" Line="30" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Test AndroidDeviceId-Debug="emulator-5554" />
+</Properties>
